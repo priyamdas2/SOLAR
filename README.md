@@ -22,7 +22,7 @@ SOLAR combines:
 
 ## 🔍 Motivation
 
-Array-based DNA methylation studies routinely measure hundreds of thousands of CpG loci per sample, while cohort sizes often remain in the hundreds or low thousands. This creates a challenging large-$p$, small-$n$ regime where conventional supervised regression, dimension reduction, and latent-factor methods may struggle with:
+Array-based DNA methylation studies routinely measure hundreds of thousands of CpG loci per sample, while cohort sizes often remain in the hundreds or low thousands. This creates a challenging large- $p$, small- $n$ regime where conventional supervised regression, dimension reduction, and latent-factor methods may struggle with:
 
 - ultra-high dimensionality  
 - strong methylation correlation structure  
