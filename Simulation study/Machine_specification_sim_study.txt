@@ -1,0 +1,5 @@
+-- Simulation for high p and p = 10^6: 256 Gb RAM, 10 core parallel, 10 threads (or just 1 core)(for parallel evaluation of multiple
+   simulation rep scenarios simultaneously we used higher RAM)
+-- Simulation for p = 10^7: 494 Gb RAM, 40 threads (multi-threaded), no parallel
+
+Both cluster AMD EPYC , MATLAB R2024a

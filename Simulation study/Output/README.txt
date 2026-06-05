@@ -1,0 +1,1 @@
+Due to existing large number of files, raw simulation output files are not shared.
