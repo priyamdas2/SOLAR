@@ -1,0 +1,2 @@
+method,selected_rank,rmse,correlation,R2,runtime_sec
+SOLAR,5,4.29742455178403,0.287444289952294,0.0563077252628454,87.0066801
