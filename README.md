@@ -255,6 +255,6 @@ SOLAR provides a scalable and interpretable supervised low-rank framework for ul
 
 ## 📄 Reference
 
-Manuscript under review.
+(Coming soon — manuscript under review)
 
 ---
