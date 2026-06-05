@@ -1,0 +1,1 @@
+Due to large file sizes, generated simulation data are not shared.

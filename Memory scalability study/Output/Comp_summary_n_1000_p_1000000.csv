@@ -1,0 +1,2 @@
+n,p,X_file_size_GB,X_class,q_hat,Num_iters_requested,Num_iters_completed,load_time_sec,center_time_sec,svd_time_sec,constants_time_sec,optimization_time_sec,total_SOLAR_time_after_load_sec,Peak_MATLAB_memory_footprint_GB,manual_peak_RAM_GB_to_fill
+1000,1000000,3.46035243105143,single,3,500,500,45.6474011,1.0100259,1.6425171,20.422508,251.1872372,274.5329129,7.31283187866211,NaN
