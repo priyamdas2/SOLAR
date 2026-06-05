@@ -1,0 +1,2 @@
+method,outcome,n,p,q_hat,q_init,q_min,q_max,Num_iters_requested,Num_iters_completed,rmse_in_sample,mae_in_sample,corr_in_sample,R2_in_sample,recon_best,obj_best,sigma2_est,tau2_est,kappa,rho2,g2,center_time_sec,svd_time_sec,optimization_time_sec,total_runtime_sec
+SOLAR_Horvath_full,AgeAccelResidual_Horvath,1051,865859,5,10,1,15,500,500,0.6813296,0.5034789,0.4074167,0.1659098,0.6251392,-3.908838e+08,0.001731316,0.556546622214109,1.04587480590204,0.25,25,0.9372071,1.4221447,286.6087495,288.9681013

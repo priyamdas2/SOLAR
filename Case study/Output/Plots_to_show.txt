@@ -1,0 +1,5 @@
+Figure for M1: 
+1. Plot_M1_factor_strength
+2. Plot_M1_latent_factor_distributions_by_age
+3. Plot_M1_latent_factor_developmental_profiles
+4. Plot_M1_observed_vs_fitted

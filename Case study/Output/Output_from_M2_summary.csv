@@ -1,0 +1,2 @@
+method,outcome,n,p,q_hat,q_init,q_min,q_max,Num_iters_requested,Num_iters_completed,rmse_in_sample,mae_in_sample,corr_in_sample,R2_in_sample,recon_best,obj_best,sigma2_est,tau2_est,kappa,rho2,g2,center_time_sec,svd_time_sec,optimization_time_sec,total_runtime_sec
+SOLAR_Levine_full,AgeAccelResidual_Levine,1051,865859,5,10,1,15,500,500,4.014667,3.171572,0.3395196,0.09531516,0.6251394,-3.90884e+08,0.001731316,17.8156509724754,1.04587480590204,0.25,25,0.9682137,1.5034373,281.7526712,284.2243222
