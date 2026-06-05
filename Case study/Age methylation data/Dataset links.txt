@@ -1,0 +1,18 @@
+1. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE254135
+p: EPIC array (≈850k probes; platform GPL21145)
+
+n: 1051 samples
+
+Continuous Y: age/timepoint is intrinsic to the study design (“ages 0–4” and “5–7”), so you can do factor regression with Y = age (or age-at-collection).
+
+Why it’s good for a methods case study: large n, modern EPIC, explicitly longitudinal/age-focused.
+
+2. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223817
+
+p: 759,345 methylation sites reported (EPIC platform)
+
+n: 984 endometrial samples
+
+Continuous Y: very likely includes age in phenotypes (and potentially menstrual-cycle variables); even if your “main” Y is age, it’s a defensible continuous endpoint for showcasing prediction/explanation.
+
+3. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE254135
