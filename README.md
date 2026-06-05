@@ -258,3 +258,11 @@ SOLAR provides a scalable and interpretable supervised low-rank framework for ul
 (Coming soon — manuscript under review)
 
 ---
+
+## 💬 Contact
+
+For questions, please contact:  
+**Priyam Das**  
+[dasp4@vcu.edu](mailto:dasp4@vcu.edu)
+
+---
