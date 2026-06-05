@@ -1,0 +1,2 @@
+method,q_hat,rank_correct,rank_abs_error,H_projector_error,V_projector_error,X_signal_recon_error,X_signal_rmse,supervised_signal_rmse,supervised_signal_corr,supervised_signal_rel_error,rmse_w,mae_w,corr_w,R2_w,beta_l2_error,runtime_sec
+SOLAR,5.00 (0.00),1.000 (0.000),0.000 (0.000),0.093 (0.006),1.840 (0.000),0.701 (0.000),0.0035 (0.0000),0.027 (0.002),0.996 (0.001),0.106 (0.009),0.352 (0.002),0.281 (0.002),0.591 (0.006),0.349 (0.008),0.806 (0.067),6761.83 (189.63)
