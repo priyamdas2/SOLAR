@@ -16,7 +16,7 @@ SOLAR combines:
 
 > Das, P., Song, J., Mohanraj, L., Aberg, K., Li, Y., and Guha, S. (2026).  
 > *Supervised Low-Rank Structure Discovery for Developmental Epigenetic Aging in Ultra-High-Dimensional DNA Methylation Data*.  
-> **ArXiv**: [(Link)](https://arxiv.org/abs/2606.09089)
+> **ArXiv**: [Link](https://arxiv.org/pdf/2606.09089)
 
 ---
 
